@@ -36,4 +36,14 @@ Master's studies are intentionally not described as an awarded master's degree.
 
 Under-review status follows the collaborator's homepage as checked on September 5, 2026.
 Google Scholar is linked as provided by the owner; its contents could not be fetched during setup.
-The design is original; no collaborator photos or website code are copied.
+The design is original; no collaborator portraits or website code are copied.
+
+## Publication Images
+
+Teasers are locally hosted, resized JPEG copies of the following public research images. Original aspect ratios and all figure content are preserved; CSS uses contain-fit previews. Image rights remain with their respective authors or rights holders.
+
+- `assets/teleoperation.jpg`: https://intent-humanoid.xyz/teaser.png
+- `assets/cogeval.jpg`: https://yinlu5942.github.io/images/papers/cogeval.png
+- `assets/imitation-difficulty.jpg`: https://user-assets.sxlcdn.com/images/1078218/FpYJq5RIwxnqRkIuRwsg5X2HcDaL.png
+- `assets/label-smoothing.jpg`: https://user-assets.sxlcdn.com/images/1078218/Fnd9Rt8z4IjUmRpAU5zTdXo5sVMC.png
+- `assets/simulation.jpg`: https://chengzhuuwu.github.io/publications/img_ats_letters.png
